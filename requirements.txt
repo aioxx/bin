@@ -1,0 +1,11 @@
+fastapi
+gitpython
+git+https://github.com/66niko99/py-adyen-encrypt.git
+pydantic
+uvicorn
+aiofiles
+python-multipart
+jinja2
+dnspython
+cryptography
+pytz

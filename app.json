@@ -1,0 +1,18 @@
+{
+    "name": "adyen-enc-and-bin-info",
+    "description": "api for getting bin info and getting encrypted card details for adyen.",
+    "keywords": [
+      "python",
+      "bin",
+      "adyen"
+    ],
+    "website": "https://t.me/cyberxbd",
+    "repository": "https://github.com/sobkiso/adyen-enc-and-bin-info",
+    "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/092017/untitled-1_4.png?DAUezIwEogqvq3raF1NmzmUA1uUSkFgy&itok=VKWYdpTb",
+    "image": "heroku/python",
+    "buildpacks": [
+      {
+        "url": "https://github.com/heroku/heroku-buildpack-python"
+      }
+    ]
+  }
